@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=ownedbyharen&style=flat&color=black">
+<img align="right" src="https://komarev.com/ghpvc/?username=ownedbyharen&style=flat&color=blue">
 
 # 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜’𝗺 𝗙𝗮𝗿𝗵𝗮𝗱 <img src="https://cdn.discordapp.com/emojis/1041675184320565258.gif?size=80&quality=lossless" height="28px">
 
