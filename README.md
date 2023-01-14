@@ -14,14 +14,14 @@
 
 <h2 align="center"> GitHub Stats </h2>
 
-<div align="left">
+<div align="center">
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ownedbyharen&theme=tokyonight)
 
 </div>
 
-# Languages And Tools
-<p align="left">
+<h2 align="center"> Languages And Tools </h2>
+<p align="center">
   <br>
   <img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
