@@ -1,4 +1,6 @@
-# 𝗛𝗶 𝗜'𝗺 𝗙𝗮𝗿𝗵𝗮𝗱 <img src="https://cdn.discordapp.com/emojis/1041675184320565258.gif?size=80&quality=lossless" height="28px">
+<img align="right" src="https://komarev.com/ghpvc/?username=ownedbyharen&style=flat&color=black">
+
+# 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜’𝗺 𝗙𝗮𝗿𝗵𝗮𝗱 <img src="https://cdn.discordapp.com/emojis/1041675184320565258.gif?size=80&quality=lossless" height="28px">
 
   - Node.js Developer
   - Most of the time I work on Discord bots
@@ -10,7 +12,8 @@
 
 
 
-# My Github Stats
+<h2 align="center"> GitHub Stats </h2>
+
 <div align="left">
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ownedbyharen&theme=tokyonight)
