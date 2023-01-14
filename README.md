@@ -20,7 +20,7 @@
 
 ![morestats](https://github-readme-streak-stats.herokuapp.com/?user=ownedbyharen&theme=tokyonight)
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ownedbyharen&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=tokyonight)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ownedbyharen&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true)
 
 </div>
 
