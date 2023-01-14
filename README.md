@@ -16,11 +16,11 @@
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=ownedbyharen&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=ownedbyharen&theme=transparent)
 
-![morestats](https://github-readme-streak-stats.herokuapp.com/?user=ownedbyharen&theme=tokyonight)
+![morestats](https://github-readme-streak-stats.herokuapp.com/?user=ownedbyharen&theme=transparent)
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ownedbyharen&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true)
+
 
 </div>
 
