@@ -9,7 +9,10 @@
 
 
 
+<div align="center">
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/908607672184623184)](https://discord.com/users/908607672184623184)
+</div>
 
 
 <h2 align="center"> GitHub Stats </h2>
